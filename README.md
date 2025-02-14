@@ -1,1 +1,1 @@
-# gcp-devops-practice
+# This is GCP DEVOPS project Practice
